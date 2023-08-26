@@ -1,0 +1,17 @@
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\bin\Debug\net7.0\Portfolio.DAL.deps.json
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\bin\Debug\net7.0\Portfolio.DAL.runtimeconfig.json
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\bin\Debug\net7.0\Portfolio.DAL.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\bin\Debug\net7.0\Portfolio.DAL.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\bin\Debug\net7.0\Portfolio.Domain.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\bin\Debug\net7.0\Portfolio.Domain.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.csproj.AssemblyReference.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.AssemblyInfoInputs.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.AssemblyInfo.cs
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.csproj.CopyComplete
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\refint\Portfolio.DAL.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\Portfolio.DAL.genruntimeconfig.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.DAL\obj\Debug\net7.0\ref\Portfolio.DAL.dll

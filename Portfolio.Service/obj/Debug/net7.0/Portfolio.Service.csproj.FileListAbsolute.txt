@@ -1,0 +1,17 @@
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.Service.deps.json
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.Service.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.Service.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.DAL.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.Domain.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.DAL.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\bin\Debug\net7.0\Portfolio.Domain.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.csproj.AssemblyReference.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.AssemblyInfoInputs.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.AssemblyInfo.cs
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.csproj.CopyComplete
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\refint\Portfolio.Service.dll
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\Portfolio.Service.pdb
+F:\Visual Studio\Vazsialar\PortfolioManagment\Portfolio.Service\obj\Debug\net7.0\ref\Portfolio.Service.dll
