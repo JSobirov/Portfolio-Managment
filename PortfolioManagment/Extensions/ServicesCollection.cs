@@ -13,5 +13,6 @@ public static class ServiceColection
         services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
         services.AddAutoMapper(typeof(MappingProfile));
         services.AddScoped<IUserService, UserService>();
+        services.AddScoped<IPaymentService, PaymentService>();
     }
-}
+}   

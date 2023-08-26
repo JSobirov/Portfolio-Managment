@@ -1,8 +1,7 @@
-﻿/*using AutoMapper;
-using Portfolio.DAL.IRepositoryes;
+﻿using AutoMapper;
 using Portfolio.Domain.Entities;
-using Portfolio.Service.DTOs.Payment;
-using Portfolio.Service.DTOs.User;
+using Portfolio.DAL.IRepositoryes;
+using Microsoft.EntityFrameworkCore;
 using PortfolioManagment.Services.Interfaces;
 
 namespace PortfolioManagment.Services.Services;
@@ -13,16 +12,27 @@ public class PaymentService : IPaymentService
     private readonly IRepository<Payment> repository;
     public PaymentService(IRepository<Payment> repository, IMapper mapper)
     {
-
         this.mapper = mapper;
         this.repository = repository;
     }
 
-    public Task<IEnumerable<PaymentResultDto>> GetAllAsync()
+    public async Task<IEnumerable<Payment>> GetAllAsync()
     {
-        var payments = this.repository.SelectAll();
+        var payments = repository.SelectAll();
 
-        var result = this.mapper.Map<IEnumerable<PaymentResultDto>>(payments);
-        return res;
-    }*/
-//}
+        payments.Include(x => x.FromUser);
+        payments.Include(i => i.toUser);
+
+        return payments;
+    }
+
+    public async Task<IEnumerable<Payment>> GetByCardNumberAsync(string cardNumber)
+    {
+        var payments = repository.SelectAll().Where(a => a.FromCard.Equals(cardNumber));
+
+        payments.Include(x => x.FromUser);
+        payments.Include(i => i.toUser);
+
+        return payments;
+    }
+}
